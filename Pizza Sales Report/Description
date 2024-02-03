@@ -1,0 +1,16 @@
+The Pizza Sales Report provides insights into the sales performance of a pizza restaurant chain using data extracted and transformed through SQL queries and Power Query in Power BI. The report offers a comprehensive analysis of pizza sales data, enabling stakeholders to make informed decisions to optimize sales strategies and improve business performance.
+
+Key Components:
+
+
+Data Extraction with SQL:
+The report utilizes SQL queries to extract transactional data from the restaurant's database, including sales records, customer information, order details, and product data.
+
+Data Transformation with Power Query:
+Power Query in Power BI is employed to clean, transform, and reshape the extracted data for analysis. This includes tasks such as data cleansing, filtering, merging, and appending tables to create a unified dataset suitable for analysis.
+
+Key Performance Indicators (KPIs):
+The report includes KPIs to measure the sales performance, such as total revenue, average order value,total pizzas sold, total orders, and average pizzas per order.
+
+Visualizations:
+The report includes a variety of visualizations to present key metrics and insights from the pizza sales data, such as Bar Charts, Funnel Chart, Area Chart, Pie & Donut Chart.
